@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "da447412-fd8a-3796-8418-c806b4457581",
+    "name": "mkenopsia",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b5bee250-d959-333e-b98d-8c2e83a03716",
+    "name": "CONQUEROR",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "711c9fbc-66be-3d48-a709-28785c4da38e",
+    "name": "kaioshinn",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

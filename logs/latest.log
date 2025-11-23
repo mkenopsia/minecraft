@@ -1,91 +1,81 @@
-[18:57:33] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:57:35] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:57:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:57:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:57:35] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:57:35] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:57:35] [main/INFO]: Reloading ResourceManager: Default
-[18:57:38] [Worker-Main-2/INFO]: Loaded 7 recipes
-[18:57:39] [Worker-Main-2/INFO]: Loaded 927 advancements
-[18:57:43] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[18:57:43] [Server thread/INFO]: Loading properties
-[18:57:43] [Server thread/INFO]: Default game type: SURVIVAL
-[18:57:43] [Server thread/INFO]: Generating keypair
-[18:57:44] [Server thread/INFO]: Starting Minecraft server on *:25566
-[18:57:44] [Server thread/INFO]: Using epoll channel type
-[18:57:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:57:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:57:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:57:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:57:44] [Server thread/INFO]: Preparing level "world"
-[18:57:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:57:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:57:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:57:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:57:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:57:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:57:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:57:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:57:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:57:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:57:49] [Server thread/INFO]: Preparing spawn area: 13%
-[18:57:50] [Server thread/INFO]: Time elapsed: 6007 ms
-[18:57:50] [Server thread/INFO]: Done (6.260s)! For help, type "help"
-[18:57:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[18:57:58] [Server thread/INFO]: kaioshinn[/81.20.205.222:58520] logged in with entity id 191 at (167.24707250102497, 44.0, -227.0767546898345)
-[18:57:59] [Server thread/INFO]: kaioshinn joined the game
-[18:58:09] [Server thread/INFO]: CONQUEROR[/176.15.204.236:58606] logged in with entity id 210 at (470.45481625906666, 19.0, -213.8667720368632)
-[18:58:09] [Server thread/INFO]: CONQUEROR joined the game
-[18:58:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12562ms or 251 ticks behind
-[18:58:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6446ms or 128 ticks behind
-[18:59:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6190ms or 123 ticks behind
-[18:59:08] [Server thread/WARN]: kaioshinn moved too quickly! 0.7072988510494724,-1.0,10.146676767911629
-[18:59:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13340ms or 266 ticks behind
-[18:59:47] [Server thread/INFO]: CONQUEROR has made the advancement [Diamonds!]
-[18:59:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10670ms or 213 ticks behind
-[19:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12081ms or 241 ticks behind
-[19:01:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[19:03:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3055ms or 61 ticks behind
-[19:09:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2637ms or 52 ticks behind
-[19:09:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
-[19:10:51] [Server thread/WARN]: CONQUEROR moved too quickly! -1.4670026725390244,-2.2336320060424804,-9.711368791651012
-[19:10:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19702ms or 394 ticks behind
-[19:11:42] [Server thread/INFO]: CONQUEROR has made the advancement [Ice Bucket Challenge]
-[19:13:59] [Server thread/INFO]: kaioshinn has made the advancement [Hot Stuff]
-[19:14:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3603ms or 72 ticks behind
-[19:15:00] [Server thread/INFO]: CONQUEROR has made the advancement [Hot Stuff]
-[19:18:47] [Server thread/INFO]: kaioshinn has made the advancement [Diamonds!]
-[19:19:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
-[19:24:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2191ms or 43 ticks behind
-[19:24:42] [Server thread/INFO]: CONQUEROR has made the advancement [We Need to Go Deeper]
-[19:24:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5325ms or 106 ticks behind
-[19:25:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[19:25:46] [Server thread/INFO]: CONQUEROR was burnt to a crisp whilst fighting Ghast
-[19:26:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19267ms or 385 ticks behind
-[19:26:20] [Server thread/WARN]: kaioshinn moved too quickly! 5.369877458290972,2.0244240882136815,8.229257910402112
-[19:26:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6785ms or 135 ticks behind
-[19:27:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9957ms or 199 ticks behind
-[19:27:12] [Server thread/INFO]: kaioshinn has made the advancement [We Need to Go Deeper]
-[19:27:12] [Server thread/INFO]: [kaioshinn: Teleported kaioshinn to CONQUEROR]
-[19:27:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8538ms or 170 ticks behind
-[19:27:34] [Server thread/INFO]: CONQUEROR has completed the challenge [Return to Sender]
-[19:28:22] [Server thread/INFO]: kaioshinn lost connection: Disconnected
-[19:28:22] [Server thread/INFO]: kaioshinn left the game
-[19:28:23] [Server thread/INFO]: CONQUEROR lost connection: Disconnected
-[19:28:23] [Server thread/INFO]: CONQUEROR left the game
-[19:28:25] [Server thread/INFO]: kaioshinn[/81.20.205.222:45552] logged in with entity id 8602 at (227.07472853267717, 68.16610926093821, -218.79575797127825)
-[19:28:25] [Server thread/INFO]: kaioshinn joined the game
-[19:28:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 57867ms or 1157 ticks behind
-[19:28:53] [Server thread/INFO]: CONQUEROR[/176.15.204.236:35772] logged in with entity id 8660 at (18.899511699300753, 70.0, -25.995660913162794)
-[19:28:53] [Server thread/INFO]: CONQUEROR joined the game
-[19:29:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8036ms or 160 ticks behind
-[19:29:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11160ms or 223 ticks behind
-[19:31:26] [Server thread/INFO]: kaioshinn lost connection: Disconnected
-[19:31:26] [Server thread/INFO]: kaioshinn left the game
-[19:31:47] [Server thread/WARN]: CONQUEROR moved too quickly! 10.331285778849434,0.049799109881064396,-1.1133583988402975
-[19:31:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7461ms or 149 ticks behind
-[19:31:51] [Server thread/WARN]: CONQUEROR moved too quickly! 9.675527421164162,-0.17081290814229533,2.9282509952059357
-[19:35:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 45377ms or 907 ticks behind
-[19:36:00] [Server thread/INFO]: CONQUEROR lost connection: Disconnected
-[19:36:00] [Server thread/INFO]: CONQUEROR left the game
-[20:17:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4517ms or 90 ticks behind
+[16:18:59] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:18:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:18:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:18:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:18:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:18:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:18:59] [main/INFO]: Reloading ResourceManager: Default
+[16:19:00] [Worker-Main-2/INFO]: Loaded 7 recipes
+[16:19:01] [Worker-Main-2/INFO]: Loaded 927 advancements
+[16:19:03] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[16:19:03] [Server thread/INFO]: Loading properties
+[16:19:03] [Server thread/INFO]: Default game type: SURVIVAL
+[16:19:03] [Server thread/INFO]: Generating keypair
+[16:19:03] [Server thread/INFO]: Starting Minecraft server on *:25566
+[16:19:03] [Server thread/INFO]: Using epoll channel type
+[16:19:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:19:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:19:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:19:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:19:03] [Server thread/INFO]: Preparing level "world"
+[16:19:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:19:05] [Server thread/INFO]: Preparing spawn area: 0%
+[16:19:05] [Server thread/INFO]: Preparing spawn area: 0%
+[16:19:05] [Server thread/INFO]: Preparing spawn area: 0%
+[16:19:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:19:06] [Server thread/INFO]: Time elapsed: 2253 ms
+[16:19:06] [Server thread/INFO]: Done (2.314s)! For help, type "help"
+[16:19:21] [Server thread/INFO]: kaioshinn[/81.20.205.222:56794] logged in with entity id 184 at (105.89750244592737, 87.0, -68.89005046818475)
+[16:19:21] [Server thread/INFO]: kaioshinn joined the game
+[16:19:56] [Server thread/INFO]: CONQUEROR[/176.15.207.94:1025] logged in with entity id 364 at (606.292019170395, 64.0, -288.17057855366085)
+[16:19:56] [Server thread/INFO]: CONQUEROR joined the game
+[16:20:35] [Server thread/INFO]: [kaioshinn: Set the weather to clear]
+[16:24:22] [Server thread/INFO]: CONQUEROR has completed the challenge [Hot Tourist Destinations]
+[16:25:41] [Server thread/INFO]: [kaioshinn: Set the weather to clear]
+[16:34:07] [Server thread/WARN]: kaioshinn moved too quickly! 9.58647581573382,1.0,-2.9728238097338675
+[16:36:38] [Server thread/INFO]: kaioshinn has made the advancement [Not Today, Thank You]
+[16:38:38] [Server thread/INFO]: kaioshinn has made the advancement [A Seedy Place]
+[16:41:42] [Server thread/INFO]: kaioshinn has made the advancement [The Parrots and the Bats]
+[16:48:52] [Server thread/INFO]: [kaioshinn: Set own game mode to Spectator Mode]
+[16:49:09] [Server thread/INFO]: [kaioshinn: Set own game mode to Survival Mode]
+[16:50:38] [Server thread/INFO]: CONQUEROR has made the advancement [A Terrible Fortress]
+[16:54:03] [Server thread/INFO]: CONQUEROR has made the advancement [Into Fire]
+[16:54:41] [Server thread/INFO]: CONQUEROR has made the advancement [Oh Shiny]
+[16:55:15] [Server thread/INFO]: CONQUEROR has made the advancement [Who is Cutting Onions?]
+[16:57:51] [Server thread/INFO]: CONQUEROR has made the advancement [Those Were the Days]
+[16:59:12] [Server thread/INFO]: CONQUEROR was slain by Piglin Brute
+[16:59:13] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)" because "☃" is null
+	at zy.b(SourceFile:202) ~[server.jar:?]
+	at zs.a(SourceFile:939) ~[server.jar:?]
+	at aae.a(SourceFile:467) ~[server.jar:?]
+	at aay.a(SourceFile:931) ~[server.jar:?]
+	at st.a(SourceFile:122) ~[server.jar:?]
+	at st$a.a(SourceFile:56) ~[server.jar:?]
+	at ol.a(SourceFile:21) ~[server.jar:?]
+	at wb.run(SourceFile:18) ~[server.jar:?]
+	at aob.c(SourceFile:144) ~[server.jar:?]
+	at aof.c(SourceFile:23) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server.jar:?]
+	at aob.y(SourceFile:118) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
+	at aob.c(SourceFile:127) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[17:03:41] [Server thread/INFO]: CONQUEROR was shot by Skeleton
+[17:05:17] [Server thread/INFO]: CONQUEROR burned to death
+[17:06:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=136, y=65, z=-138} fx{x=137, y=63, z=-138}
+[17:06:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=136, y=65, z=-138} fx{x=137, y=63, z=-138}
+[17:08:23] [Server thread/INFO]: CONQUEROR was shot by Skeleton
+[17:19:42] [Server thread/INFO]: CONQUEROR has made the advancement [War Pigs]
+[17:20:07] [Server thread/INFO]: [kaioshinn: Set own game mode to Spectator Mode]
+[17:20:19] [Server thread/INFO]: [kaioshinn: Set own game mode to Survival Mode]
+[17:20:41] [Server thread/INFO]: CONQUEROR has made the advancement [Hidden in the Depths]
+[17:21:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=111, y=64, z=-108} fx{x=112, y=63, z=-106}
+[17:21:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=111, y=64, z=-108} fx{x=112, y=63, z=-106}
+[17:24:39] [Server thread/INFO]: kaioshinn lost connection: Disconnected
+[17:24:39] [Server thread/INFO]: kaioshinn left the game

@@ -16,5 +16,17 @@
     "name": "kaioshinn",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "29420a3c-b5bd-3f2a-bebe-32f6317dba8b",
+    "name": "aspa",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "588b10db-9342-387d-9c01-fefcb4adc365",
+    "name": "vad",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
